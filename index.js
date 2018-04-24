@@ -1,5 +1,5 @@
 /*!
- * tooltip-anywhere.js v0.0.1
+ * tooltip-anywhere.js v0.1.0
  * Copyright 2018 Open Exchange Rates
  *
  * Freely distributable under the MIT license.
